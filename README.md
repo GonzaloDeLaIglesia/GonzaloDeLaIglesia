@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GonzaloDeLaIglesia
 - 👀 I’m interested in learning new languages and programming
-- 🌱 I’m currently learning Django and SQL
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me gonza1111de@gmail.com
 
